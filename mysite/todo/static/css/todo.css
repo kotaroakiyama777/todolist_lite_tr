@@ -1,24 +1,24 @@
 h2 {
-    font-size: 50px;
-    color: #000000;
+    font-size: 70px;
+    color: #0000FF;
     font-weight: 800;
-    font-family: Impact;
+    font-family: Arial,'arial narrow',sans-serif ;
 }
 body {
-    background: #fffcf9;
+    background: #99FFFF;
 }
 td {
-    border-top-width: 3px;
-    border-top-color: #ffe0c1;
-    background: #fdf5e6;
+    border-top-width: 1px;
+    border-top-color: #000080;
+    background: #FFFFFF;
 }
 .message {
-    font-size: 20px;
-    font-weight: 600;
+    font-size: 40px;
+    font-weight: 900;
 }
 .button {
-    color: #fa8072;
-    background: #fffff0;
+    color: #FFFFFF;
+    background: #CC66CC;
 }
 .del{
     color: #a52a2a;
